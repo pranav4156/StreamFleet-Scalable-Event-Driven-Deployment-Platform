@@ -1,0 +1,2 @@
+# Ignore Twilio secret file
+azurerepository/init/api/send_sms_api.py
