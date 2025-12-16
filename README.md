@@ -1,13 +1,3 @@
-# DISTRIBUTED IOT BASED APPLICATION DEPLOYMENT PLATFORM
-
-## Project Reports
-    
-1. [Design Docmunets](ProjectReport/DesignDecuments/)
-2. [Requirements Document](ProjectReport/RequirementDocuments/)
-
-<br>
-<br>
-
 # Code-snippets
 
 ## Application
